@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseLandivar
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Yarel Balcazar
+-
 - 📫 How to reach me joseantoniolandivar@gmail.com
 
 <!---
